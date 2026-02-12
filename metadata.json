@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CFCW Ticketing Experience",
+  "description": "A high-end, personalized ticketing platform for Chelsea FC Women, featuring social buying, in-game stats, and targeted hospitality offers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
